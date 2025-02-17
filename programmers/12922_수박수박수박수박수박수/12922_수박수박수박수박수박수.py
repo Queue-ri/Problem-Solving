@@ -1,0 +1,1 @@
+def solution(n):return "".join(["수박"[x&1] for x in range(n)])
